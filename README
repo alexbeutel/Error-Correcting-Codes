@@ -1,0 +1,9 @@
+Alex Beutel
+February 26, 2010
+
+This is an Eclipse project so if you'd like you can load it into Eclipse with the .project file.  
+
+Run ErrorCodesMain to see the message encoded and decoded.  
+The string is hard coded in the file so change that if you'd like.
+The generator and erasures are randomly chosen.
+   
